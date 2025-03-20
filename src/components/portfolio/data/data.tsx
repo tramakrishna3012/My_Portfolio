@@ -4,7 +4,7 @@ export const data = [
     id: Math.random(),
     title: "OCR Image to Text",
     subtitle: "A Streamlit app that extracts text from images using OCR.",
-    github: "https://github.com/Rayyan9477/OCR-Image-to-text",
+    github: "https://github.com/tramakrishna3012/OCR_IMG_to_TXT",
     liveUrl: "https://rayyan9477-ocr-image-to-text.streamlit.app/",
   },
   {
