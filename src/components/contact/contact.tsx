@@ -31,10 +31,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        import.meta.env.VITE_EMAILJS_SERVICEID!,
-        import.meta.env.VITE_EMAILJS_TEMPLATEID!,
+        'service_hg9y1yz',
+        'template_2g65qra',
         e.currentTarget,
-        import.meta.env.VITE_EMAILJS_PUBLICKEY!
+        'grwPKQF8Kja43XGz1'
       )
       .then((result) => {
         setFormData({ fullName: "", email: "", message: "" });
@@ -68,7 +68,7 @@ const Contact = () => {
             <h4>LinkedIn</h4>
             <h5>T Rama Krishna </h5>
             <a
-              href="https://www.linkedin.com/in/t-rama--krishna/"
+              href="https://www.linkedin.com/in/t-rama-krishna/"
               target="_blank"
               className="inline-block p-[0.5rem] text-[0.9rem]"
               rel="noopener"
