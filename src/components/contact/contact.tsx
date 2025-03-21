@@ -68,7 +68,7 @@ const Contact = () => {
             <h4>LinkedIn</h4>
             <h5>T Rama Krishna </h5>
             <a
-              href="https://www.linkedin.com/in/t-rama--krishna/"
+              href="https://www.linkedin.com/in/t-rama-krishna/"
               target="_blank"
               className="inline-block p-[0.5rem] text-[0.9rem]"
               rel="noopener"
