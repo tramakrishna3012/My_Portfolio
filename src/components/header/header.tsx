@@ -21,7 +21,7 @@ const Header = () => {
           >
             <div className="Logo">
               <img 
-              src="/src/assets/logo-removebg-preview.webp" 
+              src="src/assets/logo-removebg-preview.webp" 
               alt="Logo" 
               width={50} 
               height={10}
