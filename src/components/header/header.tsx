@@ -31,7 +31,7 @@ const Header = () => {
           </a>
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/tramakrishna3012/My_Portfolio/blob/main/T.Rama_Krishna.pdff"
+              href="https://github.com/tramakrishna3012/My_Portfolio/blob/main/T.Rama_Krishna.pdf"
               download="T.Rama_Krishna_Resume.pdf"
               className="btn-header h-[48px] rounded-full px-6 text-sm font-medium text-white flex items-center justify-center"
             >
