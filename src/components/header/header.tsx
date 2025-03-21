@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { AppContext } from "../../App";
-import logo from "../../../assets/logo-removebg-preview.webp"
+import logo from "../../assets/logo-removebg-preview.webp"
 
 const Header = () => {
   const context = useContext(AppContext);
