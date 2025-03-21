@@ -12,7 +12,7 @@ const Footer = () => {
         href="#"
         className="footer__logo mb-[2rem] text-[2rem] hover:text-[#ebecf1]"
       >
-        Rayyan Ahmed
+        T Rama Krishna
       </a>
 
       <ul className="permalinks max-sm:gap-1.5rem mb-[3rem] mt-0 flex flex-wrap justify-center gap-[2rem] max-sm:flex-col">
