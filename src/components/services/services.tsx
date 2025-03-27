@@ -4,7 +4,7 @@ const Services = () => {
   return (
     <section id="services">
       <h5>What I am</h5>
-      <h2>Capable</h2>
+      <h2>Capable of</h2>
       <div className="services_container container grid grid-cols-3 gap-[3rem] max-md:grid-cols-2 max-sm:grid-cols-1 max-sm:gap-[1.5rem]">
         <article className="service hover:cursor-default hover:border-[#2f2f69] hover:bg-transparent max-md:h-auto">
           <div className="service__head">
