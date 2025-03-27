@@ -5,7 +5,7 @@ export const data = [
     title: "OCR Image to Text",
     subtitle: "A Streamlit app that extracts text from images using OCR.",
     github: "https://github.com/tramakrishna3012/OCR_IMG_to_TXT",
-    liveUrl: "https://rayyan9477-ocr-image-to-text.streamlit.app/",
+    liveUrl: "#",
   },
   {
     id: Math.random(),
@@ -25,7 +25,7 @@ export const data = [
     id: Math.random(),
     title: "Contextual Chatbot",
     subtitle: "A contextual chatbot built with Streamlit for interactive conversations.",
-    github: "https://github.com/Rayyan9477/Contextual-Chatbot",
+    github: "https://github.com/tramakrishna3012/Contextual_Chatbot",
     liveUrl: "#",
   },
   
@@ -40,8 +40,8 @@ export const data = [
     id: Math.random(),
     title: "Chatbot Generative AI",
     subtitle: "A generative AI chatbot for interactive conversations.",
-    github: "https://github.com/Rayyan9477/Chatbot-Genrative-AI",
-    liveUrl: "#", 
+    github: "https://github.com/tramakrishna3012/Chatbot_Gen_AI",
+    liveUrl: "#",
   },
   
 ];
