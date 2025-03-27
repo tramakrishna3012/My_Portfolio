@@ -36,14 +36,14 @@ const Experience = () => {
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>Java <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" className="inline-block ml-1 w-4 h-8" /></h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>JavaScript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" className="inline-block ml-1 w-4 h-4" /></h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
@@ -134,7 +134,7 @@ const Experience = () => {
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>RAG <img src="https://cdn-icons-png.flaticon.com/512/10779/10779791.png" alt="RAG Logo" className="inline-block ml-1 w-4 h-4" /></h4>
-                <small className="text-light">Intermidiate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
@@ -163,21 +163,21 @@ const Experience = () => {
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>MySQL </h4>
-                <small className="text-light">Intermidiate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>MS SQL Server <img src="https://img.icons8.com/color/48/000000/sql.png" alt="MS SQL Server Logo" className="inline-block ml-1 w-4 h-4" /></h4>
-                <small className="text-light">Intermidiate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>Mongo DB </h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
 
@@ -185,7 +185,7 @@ const Experience = () => {
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" className="inline-block ml-1 w-4 h-4" /></h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details flex gap-[1rem]">
@@ -199,7 +199,7 @@ const Experience = () => {
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
                 <h4>GCP<img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="GCP Logo" className="inline-block ml-1 w-4 h-4" /> </h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
           </div>
