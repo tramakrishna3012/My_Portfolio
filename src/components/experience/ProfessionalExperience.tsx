@@ -4,7 +4,7 @@ const ProfessionalExperience = () => {
   return (
     <section id="professional-experience">
       <h5>What I have Done</h5>
-      <h2>Professional Experience</h2>
+      <h2>Internship Experience</h2>
       <div className="experience__container container grid grid-cols-1 gap-[2rem] max-sm:gap-[1rem]">
         <div className="experience__item col-span-1 max-md:mx-auto max-md:my-0 max-md:w-[85%] max-md:p-[2rem] max-sm:w-[100%] max-sm:px-[1rem] max-sm:py-[2rem]">
           <h3 className="color-primary mb-[1rem]">Data Science Intern</h3>
