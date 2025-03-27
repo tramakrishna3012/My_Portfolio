@@ -23,20 +23,18 @@ This is my personal portfolio website, built with React and Tailwind CSS. It sho
 ## Project List
 
 *   **OCR Image to Text:** A Streamlit app that extracts text from images using OCR.
-    *   [GitHub Repository](https://github.com/Rayyan9477/OCR-Image-to-text)
-    *   [Live Demo](https://rayyan9477-ocr-image-to-text.streamlit.app/)
+    *   [GitHub Repository](https://github.com/tramakrishna3012/OCR_IMG_to_TXT)
 *   **Contextual Chatbot:** A contextual chatbot built with Streamlit for interactive conversations.
-    *   [GitHub Repository](https://github.com/Rayyan9477/Contextual-Chatbot)
-    *   [Live Demo](https://rayyan9477-contextual-chatbot.streamlit.app/)
+    *   [GitHub Repository](https://github.com/tramakrishna3012/Contextual_ChatBot)
 *   **Hate Speech Detection:** An app to detect hate speech in text, powered by NLP models.
-    *   [GitHub Repository](https://github.com/Rayyan9477/Hate-Speech-Detection)
-    *   [Live Demo](https://hate-speech-detection-trmipfakvkn6ycvnjkpmqk.streamlit.app/)
+    *   [GitHub Repository](https://github.com/tramakrishna3012/Hate-Speech-Detection)
+    *   [Live Demo](https://hate-speech-detection-npafqbpg9ytzh4saketbxy.streamlit.app/)
 *   **House Price Prediction:** A data-driven property recommendation and house price prediction app.
-    *   [GitHub Repository](https://github.com/Rayyan9477/Data-Driven-House-Price-Prediction-and-Property-Recommendation-App)
+    *   [GitHub Repository](https://github.com/tramakrishna3012/House_Price_Prediction_System)
 *   **Chatbot Generative AI:** A generative AI chatbot for interactive conversations.
-    *   [GitHub Repository](https://github.com/Rayyan9477/Chatbot-Genrative-AI)
-*   **Claim Guard: Healthcare Claim Integrity and Fraud Detection:** A system for healthcare claim integrity and fraud detection.
-    *   [GitHub Repository](https://github.com/Rayyan9477/Claim-Guard-Healthcare-Claim-Integrity-and-Fraud-Detection)
+    *   [GitHub Repository](https://github.com/tramakrishna3012/Chatbot_Gen_AI)
+*   **Multiple Disease Prediction:** A machine learning model to predict multiple diseases from symptoms.
+    *   [GitHub Repository](https://github.com/tramakrishna3012/Multiple_Disease_Prediction_System)
 
 ## Getting Started
 
@@ -81,16 +79,12 @@ The project is deployed using [Vercel](https://vercel.com/)
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 Rayyan Ahmed
 
-[rayyanahmed265@yahoo.com](mailto:rayyanahmed265@yahoo.com)
+[tramakrishna3012@gmail.com](mailto:tramakrishna3012@gmail.com)
 
-[LinkedIn](http://www.linkedin.com/in/rayyan-ahmed9477)
+[LinkedIn](http://www.linkedin.com/in/t-rama-krishna)
 
-[GitHub](https://github.com/Rayyan9477)
+[GitHub](https://github.com/tramakrishna3012)
