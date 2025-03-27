@@ -39,13 +39,6 @@ const About = () => {
             </article>
             <article className="flex flex-col">
               <div className="about__card h-full flex-1">
-                <HiOutlineUsers className="about__icon flex justify-center" />
-                <h5>Worked With</h5>
-                <small>5+ Clients Globally</small>
-              </div>
-            </article>
-            <article className="flex flex-col">
-              <div className="about__card h-full flex-1">
                 <BsFolderCheck className="about__icon" />
                 <h5>Projects</h5>
                 <small>20+ Finished Projects</small>
