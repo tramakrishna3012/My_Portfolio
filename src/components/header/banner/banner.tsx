@@ -48,6 +48,8 @@ const HeaderBanner = () => {
               <span className="mr-4 text-white">I am a</span>
               <TypeAnimation
                 sequence={[
+                  "Python Developer",
+                  2000,
                   "AI-ML Engineer",
                   2000,
                   "Data Scientist",
