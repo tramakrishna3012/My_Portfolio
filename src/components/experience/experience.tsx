@@ -28,6 +28,13 @@ const Experience = () => {
             <article className="experience__details flex gap-[1rem]">
               <BsPatchCheckFill className="color-primary mt-[6px]" />
               <div>
+                <h4>Django <img src="https://www.svgrepo.com/show/376363/django.svg" alt="django Logo" className="inline-block ml-1 w-5 h-4" /></h4>
+                <small className="text-light">Intermidiate</small>
+              </div>
+            </article>
+            <article className="experience__details flex gap-[1rem]">
+              <BsPatchCheckFill className="color-primary mt-[6px]" />
+              <div>
                 <h4>SQL <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo" className="inline-block ml-1 w-4 h-4" /></h4>
                 <small className="text-light">Intermidiate</small>
               </div>
