@@ -32,7 +32,7 @@ const Header = () => {
           </a>
           <div className="flex items-center gap-4">
             <a
-              href="src/components/header/T.Rama_Krishna.pdf"
+              href="/T.Rama_Krishna.pdf"
               download="T.Rama_Krishna_Resume.pdf"
               className="btn-header h-[48px] rounded-full px-6 text-sm font-medium text-white flex items-center justify-center"
             >
